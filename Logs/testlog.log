@@ -1,0 +1,53 @@
+2024-11-05 19:30:13,498 - orangeHRM -INFO - Opened Application URL
+2024-11-05 19:30:14,598 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 19:30:15,809 - orangeHRM -INFO - Application Title Matched
+2024-11-05 19:31:11,715 - orangeHRM -INFO - Opened Application URL
+2024-11-05 19:31:15,072 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 19:33:15,315 - orangeHRM -INFO - Opened Application URL
+2024-11-05 19:33:16,516 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 19:33:17,721 - orangeHRM -ERROR - Application Title Matched
+2024-11-05 19:33:59,339 - orangeHRM -INFO - Opened Application URL
+2024-11-05 19:34:01,899 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 19:34:01,911 - orangeHRM -ERROR - Application Title not Matched
+2024-11-05 19:42:04,408 - orangeHRM -INFO - Opened Application URL
+2024-11-05 19:42:06,661 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 19:42:07,952 - orangeHRM -ERROR - Application Title not Matched
+2024-11-05 19:49:43,566 - orangeHRM -INFO - Opened Application URL
+2024-11-05 19:49:47,057 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 19:49:47,092 - orangeHRM -ERROR - Application Title not Matched
+2024-11-05 19:52:03,620 - orangeHRM -INFO - Opened Application URL
+2024-11-05 19:52:06,949 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 19:52:06,978 - orangeHRM -ERROR - Application Title not Matched
+2024-11-05 20:06:19,923 - orangeHRM -INFO - Opened Application URL
+2024-11-05 20:06:23,086 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 20:06:23,118 - orangeHRM -ERROR - Application Title not Matched
+2024-11-05 20:06:34,513 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-05 20:06:34,514 - orangeHRM -ERROR - Application not displayed default page
+2024-11-06 19:43:06,315 - orangeHRM -INFO - Opened Application URL
+2024-11-06 19:43:07,887 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-06 19:43:09,213 - orangeHRM -ERROR - Application Title not Matched
+2024-11-06 19:43:22,013 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-06 19:43:22,014 - orangeHRM -ERROR - Application not displayed default page
+2024-11-06 19:44:24,786 - orangeHRM -INFO - Opened Application URL
+2024-11-06 19:44:28,157 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-06 19:44:28,193 - orangeHRM -ERROR - Application Title not Matched
+2024-11-06 19:44:39,435 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-06 19:44:39,437 - orangeHRM -ERROR - Application not displayed default page
+2024-11-06 19:47:56,797 - orangeHRM -INFO - Opened Application URL
+2024-11-06 19:48:00,706 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-06 19:48:00,732 - orangeHRM -ERROR - Application Title not Matched
+2024-11-06 19:48:11,956 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-06 19:48:11,957 - orangeHRM -ERROR - Application not displayed default page
+2024-11-06 19:48:24,324 - orangeHRM -INFO - Added firstName,Middle Name and Last Name
+2024-11-06 19:48:29,288 - orangeHRM -INFO - Added firstName,Middle Name and Last Name
+2024-11-06 19:48:32,728 - orangeHRM -INFO - Added firstName,Middle Name and Last Name
+2024-11-06 19:48:36,156 - orangeHRM -INFO - Added firstName,Middle Name and Last Name
+2024-11-06 19:53:07,544 - orangeHRM -INFO - Opened Application URL
+2024-11-06 19:53:09,238 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-06 19:53:10,927 - orangeHRM -ERROR - Application Title not Matched
+2024-11-06 19:53:22,197 - orangeHRM -INFO - Provided UserName,Password and loggedinto the application
+2024-11-06 19:53:22,198 - orangeHRM -ERROR - Application not displayed default page
+2024-11-06 19:53:33,985 - orangeHRM -INFO - Added firstName,Middle Name and Last Name
+2024-11-06 19:53:37,720 - orangeHRM -INFO - Added firstName,Middle Name and Last Name
+2024-11-06 19:53:41,117 - orangeHRM -INFO - Added firstName,Middle Name and Last Name
+2024-11-06 19:53:44,416 - orangeHRM -INFO - Added firstName,Middle Name and Last Name
